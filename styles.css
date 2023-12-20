@@ -1,0 +1,14 @@
+html {
+  background-color: lightgoldenrodyellow;
+}
+
+div {
+  margin-left: 25%;
+  text-align: center;
+  width: 50%;
+}
+
+#mid-section {
+  background-color: lightskyblue;
+  border-radius: 10px;
+}
